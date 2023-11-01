@@ -1,0 +1,37 @@
+#parent {
+  width: 100%
+}
+
+#form-section {
+  width: 20%;
+  margin: auto;
+  border: 2px solid black;
+  text-align: center;
+  height: 370px
+}
+
+table,
+thead,
+tbody,
+th,
+tr,
+td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+
+th,
+td {
+  width: 8%;
+}
+
+tbody input {
+  width: 80%;
+}
+
+#table-section {
+  width: 80%;
+  margin: auto;
+  margin-top: 70px;
+  text-align: center;
+}
